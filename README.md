@@ -17,7 +17,7 @@ It supports user authentication, device-wise telemetry viewing, role-based acces
   - Battery
   - Last update time
 - Telemetry trend chart
-- Auto refresh every 5s
+- Auto refresh every 10s
 - Demo/fake telemetry mode (updates every 10s when real data is stale/missing)
 - One-domain deployment support (Express serves React build)
 
@@ -62,8 +62,8 @@ iot-dashboard/
 └── .gitignore
 ---
 ```
-##Deployed Link
+#Deployed Link
 https://iot-dashboard-qe6t.onrender.com
 
-##Author
+#Author
 Made by Soham Sachdeva
