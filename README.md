@@ -60,6 +60,10 @@ iot-dashboard/
 │   │   └── App.js
 │   └── package.json
 └── .gitignore
-echo "##Author" >> README.md
+---
+
+## Author
+
+Made by **Soham Sachdeva**
 
       
